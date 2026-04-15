@@ -1,0 +1,25 @@
+{
+	"enroll_device": {
+		"device_id": 939504224,
+		"ip_addr": "192.168.0.110",
+		"port": 51211,
+		"use_ssl": false,
+		"last_event_id": 35142
+	},
+	"devices": [
+		{
+			"device_id": 543664528,
+			"ip_addr": "192.168.0.135",
+			"port": 51211,
+			"use_ssl": false,
+			"last_event_id": 6377
+		},
+		{
+			"device_id": 547634389,
+			"ip_addr": "192.168.0.100",
+			"port": 51211,
+			"use_ssl": true,
+			"last_event_id": 295399
+		}
+	]
+}
