@@ -1,0 +1,6 @@
+Flask~=3.0.3
+google~=3.0.0
+
+grpcio~=1.67.1
+protobuf~=5.28.3
+python-dotenv~=1.0.1
